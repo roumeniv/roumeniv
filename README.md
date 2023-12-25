@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 2.6 [React](./Software/React/ReadMe.md)  
 
-### 2.7 [.Net Core](./Software/LittleAspNetCoreBook/ReadMe.md)  
+### 2.7 [.Net Core](./Software/Net/ReadMe.md)  
 
 ### 2.8 [Books](./Software/Ebooks/ReadMe.md)    
 
